@@ -10,16 +10,16 @@ const ProfileInfo = ({ userProfile }) => {
 	// const userProfile = {
 	// 	avatar_url: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
 	// 	bio: "👨🏻‍💻👨🏻‍💻👨🏻‍💻",
-	// 	email: "johndoe@gmail.com",
+	// 	email: "akarui.aryan@gmail.com",
 	// 	followers: 100,
 	// 	following: 200,
-	// 	html_url: "https://github.com/burakorkmez",
+	// 	html_url: "https://github.com/aryanvisualize",
 	// 	location: "Somewhere, Earth",
-	// 	name: "John Doe",
+	// 	name: "Aryan Rastogi",
 	// 	public_gists: 100,
 	// 	public_repos: 100,
-	// 	twitter_username: "johndoe",
-	// 	login: "johndoe",
+	// 	twitter_username: "akarui_aryan",
+	// 	login: "aryanvisualize",
 	// };
 
 	const memberSince = formatMemberSince(userProfile?.created_at);
