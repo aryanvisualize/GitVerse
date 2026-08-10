@@ -102,7 +102,7 @@
 
 - React-based client (see `/frontend`)
 
-> ⚠️ **Confirm this section:** your `frontend/package.json` wasn't accessible while generating this file — swap in your actual frontend libraries (React/Vite/Tailwind, etc.) to keep this accurate.
+The frontend is built with React 19 and Vite for a fast, modern development experience, styled using Tailwind CSS 4 (via the official Vite plugin). Routing is handled with React Router v7, toast notifications with react-hot-toast, and icons via react-icons. Code quality is enforced with ESLint, including React Hooks and React Refresh plugins for a smooth dev workflow.
 
 </td>
 </tr>
